@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "site": "okee-94215",
+      "public": "public",
+      "ignore": ["firebase.json", "/.*", "/node_modules/**"]
+    }
+]
+}
